@@ -1,1 +1,0 @@
-while wait(1) do print("Hello World!") end
